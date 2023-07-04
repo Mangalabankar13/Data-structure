@@ -1,3 +1,5 @@
+//linear searching- c program for union of two integer array
+
 #include<stdio.h>
 void main()
 {
@@ -33,4 +35,4 @@ void main()
  printf("\nunion of two arrays");
  for(i=0;i<k;i++)
  printf("%d ",c[i]);
-}     
+}    
