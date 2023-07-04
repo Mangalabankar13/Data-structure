@@ -1,3 +1,6 @@
+//C program to find largest pair sum in an unsorted array
+(hint:find 2 maximum elements from array and then find the sum of both numbers)
+
 #include<stdio.h>
 void main()
 {
