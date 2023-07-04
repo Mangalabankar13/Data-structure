@@ -1,3 +1,5 @@
+//linear searching- create a structure student(roll number,name,percentage) accept n students info & accept roll number to search and display name & percentage
+
 #include<stdio.h>
 struct stud
 {
@@ -34,8 +36,3 @@ void main()
  {
   printf("record not found");
  }
- 
- 
- 
- 
-}      
