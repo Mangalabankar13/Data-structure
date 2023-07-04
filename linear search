@@ -1,4 +1,4 @@
-//linear search- accept n numbers in an array and accept a number to search
+//linear search- accept n numbers in an array and accept a number to search//
 
 #include<stdio.h>
 void main()
