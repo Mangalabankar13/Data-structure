@@ -1,3 +1,5 @@
+//linear searching- accept n student names and accept name to search
+
 #include<stdio.h>
 #include<string.h>
 void main()
