@@ -1,3 +1,5 @@
+//linear searching-create a random array and accept a value from user and check the number is present in the array or not.
+
 #include<stdio.h>
 #include<math.h>
 void main()
