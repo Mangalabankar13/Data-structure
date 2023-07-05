@@ -1,3 +1,5 @@
+//menu driven program-even position sum and odd position sum of array element
+
 #include<stdio.h>
 void main()
 {
