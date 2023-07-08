@@ -33,4 +33,3 @@ void main()
  else
  printf("\ncity is not found");
 }   
-
